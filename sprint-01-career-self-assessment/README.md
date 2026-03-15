@@ -21,7 +21,7 @@ Completed a structured career self-assessment and professional introduction as t
 
 ## Deliverable
 
-Presented as a Google Slides deck covering personal background, motivations for entering cybersecurity, self-assessed skill gaps, and a structured plan for growth throughout the program.
+Presented as a Google Slides deck covering a simulated network improvement diagram using basic network topology and baseline knowledge before beginning the core program as an intro to networking
 
 ## Skills Demonstrated
 
